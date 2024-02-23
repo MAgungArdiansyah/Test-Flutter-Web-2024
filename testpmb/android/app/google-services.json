@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873290883290",
+    "project_id": "thebasic-a9d5f",
+    "storage_bucket": "thebasic-a9d5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873290883290:android:2a04df3dcf66f7fb5ec5e3",
+        "android_client_info": {
+          "package_name": "com.example.testpmb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDm6QOqnC-NWxj8O5uu1fSq9Z0Viq2J1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
